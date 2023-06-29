@@ -8,7 +8,7 @@ slug: ../learn-architecture
 ---
 
 {{ polkadot: Polkadot :polkadot }}{{ kusama: Kusama :kusama }} is a heterogeneous multichain with
-shared security and interoperability.
+shared security and interoperability which is based on [Substrate](https://github.com/paritytech/substrate).
 
 ## Relay Chain
 
